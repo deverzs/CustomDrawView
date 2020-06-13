@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDrawView</string>
+    <string name="swap_button">Swap Button</string>
+    <string name="swap_color">Swap Color</string>
+</resources>
